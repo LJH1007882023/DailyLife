@@ -254,11 +254,11 @@
     <string name="me_about_author_recent_item_3">Sharing mobile development and productivity practices</string>
     <string name="me_about_author_contacts_title">Contact</string>
     <string name="me_about_author_contact_github_label">GitHub</string>
-    <string name="me_about_author_contact_github_value">github.com/evening-01</string>
-    <string name="me_about_author_contact_email_label">Email</string>
-    <string name="me_about_author_contact_email_value">H3410233124@gmail.com</string>
+    <string name="me_about_author_contact_github_value">b23.tv/0fOih4Y</string>
+    <string name="me_about_author_contact_email_label">Contact</string>
+    <string name="me_about_author_contact_email_value">b23.tv/0fOih4Y</string>
     <string name="me_about_author_contact_site_label">Website</string>
-    <string name="me_about_author_contact_site_value">evening.dev</string>
+    <string name="me_about_author_contact_site_value">b23.tv/0fOih4Y</string>
     <string name="me_about_author_footer">Thank you for using DailyLife. May it help you live with discipline and calm.</string>
 
     <!-- Me profile -->
