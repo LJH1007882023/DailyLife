@@ -253,11 +253,11 @@
     <string name="me_about_author_recent_item_3">分享移动开发与生活效率的实践</string>
     <string name="me_about_author_contacts_title">联系方式</string>
     <string name="me_about_author_contact_github_label">GitHub</string>
-    <string name="me_about_author_contact_github_value">github.com/evening-01</string>
-    <string name="me_about_author_contact_email_label">邮箱</string>
-    <string name="me_about_author_contact_email_value">H3410233124@gmail.com</string>
+    <string name="me_about_author_contact_github_value">b23.tv/0fOih4Y</string>
+    <string name="me_about_author_contact_email_label">联系我</string>
+    <string name="me_about_author_contact_email_value">b23.tv/0fOih4Y</string>
     <string name="me_about_author_contact_site_label">个人站</string>
-    <string name="me_about_author_contact_site_value">evening.dev</string>
+    <string name="me_about_author_contact_site_value">b23.tv/0fOih4Y</string>
     <string name="me_about_author_footer">感谢你使用 DailyLife，希望它能陪你走向更自律、从容的生活。</string>
 
     <!-- Me profile -->
